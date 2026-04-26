@@ -1,5 +1,7 @@
 version = 1
 agents = ["vscode", "opencode"]
+minimum_release_age = 4320
+minimum_release_age_exclude = ['getsentry']
 
 [trust]
 allow_all = true
